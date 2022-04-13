@@ -1,3 +1,5 @@
+https://medium.com/@sourish.syntel/cnn-application-detecting-car-exterior-damage-full-implementable-code-1b205e3cb48c
+
 # car-damage-detection-using-CNN
 Automated car damage detection using Instance Segmentation(Mask R-CNN)
 
